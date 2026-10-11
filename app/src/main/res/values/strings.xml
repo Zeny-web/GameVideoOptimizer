@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Game Video Optimizer</string>
+    <string name="select_video">Select Video</string>
+    <string name="optimize">Optimize</string>
+    <string name="preview">Preview</string>
+    <string name="quality">Quality</string>
+    <string name="fps_boost">FPS Boost</string>
+    <string name="effects">Effects</string>
+    <string name="export">Export</string>
+    <string name="resolution">Resolution</string>
+    <string name="fps">Target FPS</string>
+    <string name="brightness">Brightness</string>
+    <string name="contrast">Contrast</string>
+    <string name="saturation">Saturation</string>
+    <string name="sharpness">Sharpness</string>
+    <string name="processing">Processing…</string>
+</resources>
